@@ -2,7 +2,7 @@
 
 Downloads for **SwiftDesk**, a fast self-hosted remote desktop for Windows, macOS, Android and the web.
 
-Website and guide: https://swiftdev.platformforge.dev
+Website and guide: https://swiftdesk.platformforge.dev
 
 | Platform | File |
 |---|---|
